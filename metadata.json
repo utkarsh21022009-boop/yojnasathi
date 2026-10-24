@@ -1,0 +1,6 @@
+{
+  "name": "YojanaSaathi Civic Platform",
+  "description": "Authoritative, barrier-free Indian public welfare navigation, scheme directory, and citizen eligibility engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
